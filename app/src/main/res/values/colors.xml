@@ -11,4 +11,5 @@
     <color name="colorPrimaryDark">#6A1B9A</color>
     <color name="colorAccent">#9013FE</color>
     <color name="home_title">#363A43</color>
+    <color name="question_color_hint">#7A8089</color>
 </resources>

@@ -96,7 +96,7 @@
             android:background="@drawable/default_option_border_bg"
             android:gravity="center"
             android:padding="15dp"
-            android:textColorHint="#7A8089"
+            android:textColorHint="@color/question_color_hint"
             android:textSize="18sp"
             tools:text="Android Inc."
             />
