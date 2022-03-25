@@ -7,4 +7,7 @@
     <string name="question_id_text">What country does this flag belong to?</string>
     <string name="submit">SUBMIT</string>
     <string name="flag">Flag</string>
+    <string name="finish">FINISH</string>
+    <string name="quiz_question_submit">SUBMIT</string>
+    <string name="go_to_next_question">GO TO NEXT QUESTION</string>
 </resources>

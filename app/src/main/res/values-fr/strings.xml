@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finish">FIN</string>
+    <string name="go_to_next_question">ALLER A LA QUESTION SUIVANTE</string>
+    <string name="app_name">QuizApp</string>
+    <string name="please_enter_your_name">Entrez votre nom.</string>
+    <string name="name">Nom</string>
+    <string name="start">Commencer</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="question_id_text">A quel pays ce drapeau appartient-il?</string>
+    <string name="submit">SOUMETTRE</string>
+    <string name="flag">Drapeau</string>
+    <string name="quiz_question_submit">SOUMETTRE</string>
+</resources>
