@@ -10,4 +10,8 @@
     <string name="finish">FINISH</string>
     <string name="quiz_question_submit">SUBMIT</string>
     <string name="go_to_next_question">GO TO NEXT QUESTION</string>
+    <string name="result_page_result">Result</string>
+    <string name="trophy">trophy</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="username">Username</string>
 </resources>

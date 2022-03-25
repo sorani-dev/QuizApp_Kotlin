@@ -11,4 +11,8 @@
     <string name="submit">SOUMETTRE</string>
     <string name="flag">Drapeau</string>
     <string name="quiz_question_submit">SOUMETTRE</string>
+    <string name="result_page_result">Résultat</string>
+    <string name="trophy">Trophée</string>
+    <string name="hey_congratulations">Hé, Félécitations!</string>
+    <string name="username">Nom d\'utilisateur</string>
 </resources>
