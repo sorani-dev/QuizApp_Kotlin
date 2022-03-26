@@ -17,4 +17,6 @@
     <string name="username">Nom d\'utilisateur</string>
     <string name="result_score">Votre score est de 9 sur 10</string>
     <string name="show_score_message">Votre score est de %1$d sur %2$d</string>
+    <string name="Argentina">Argentina</string>
+    <string name="Australia">Australia</string>
 </resources>

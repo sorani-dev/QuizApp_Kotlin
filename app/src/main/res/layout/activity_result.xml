@@ -23,9 +23,9 @@
     <ImageView
         android:id="@+id/iv_trophy"
         android:layout_width="wrap_content"
-        android:layout_height="373dp"
         android:contentDescription="@string/trophy"
-        android:src="@drawable/ic_trophy" />
+        android:src="@drawable/ic_trophy"
+        android:layout_height="200dp"/>
 
     <TextView
         android:id="@+id/tv_congratulations"

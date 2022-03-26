@@ -1,5 +1,8 @@
 package fr.cateausimon.quizapp
 
+import android.provider.Settings.System.getString
+import androidx.core.graphics.drawable.toDrawable
+
 object Constants {
 
     const val USER_NAME :String ="user_name"
