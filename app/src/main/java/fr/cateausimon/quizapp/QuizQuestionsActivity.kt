@@ -3,6 +3,7 @@ package fr.cateausimon.quizapp
 import android.graphics.Color
 import android.graphics.Typeface
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.TextView
 import android.widget.Toast
@@ -53,7 +54,9 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
 
 
         progressBar.progress = mCurrentPosition
-        tv_progress.text = "{}/{}".format(mCurrentPosition, progressBar.max)
+        tv_progress.text = "${mCurrentPosition}/${progressBar.max}"
+        Log.i("progress", mCurrentPosition.toString())
+        Log.i("progress", progressBar.max.toString())
 
         tv_question.text = question.question
         iv_image.setImageResource(question.image)
